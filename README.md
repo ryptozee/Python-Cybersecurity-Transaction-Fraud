@@ -21,19 +21,20 @@ The dataset has five types of transactions:
 ## Implementation
 * Transaction types bar chart:
   
-![image](https://github.com/ryptozee/Python-Cybersecurity-Transaction-Fraud/assets/135963482/0f46f286-3a5a-4744-b4a1-6d84040edb56)
+![image](https://github.com/user-attachments/assets/1f3e99f4-1e25-490c-947a-600ced775f23)
+
 
 * Transaction types frequencies:
 
-![image](https://github.com/ryptozee/Python-Cybersecurity-Transaction-Fraud/assets/135963482/fe2ea599-140f-4ece-a11c-00b95008a9ba)
+![image](https://github.com/user-attachments/assets/bfcf637d-2ed0-4b5b-ba8d-da4991f356aa)
 
 * Delta Source:
 
-![image](https://github.com/ryptozee/Python-Cybersecurity-Transaction-Fraud/assets/135963482/db06a7c5-c27b-4395-b344-cf7ca86b40d0)
+![image](https://github.com/user-attachments/assets/2777abcd-e055-4fbc-8a0f-95d2013717df)
 
 * Fraud Detection:
 
-![image](https://github.com/ryptozee/Python-Cybersecurity-Transaction-Fraud/assets/135963482/686aae69-2cf1-4480-80dd-3fa8250573b2)
+![image](https://github.com/user-attachments/assets/1b75452e-f7c6-40ab-a259-9899732f2416)
 
 ## Future Works: 
 * I would like to use free open source Facebook, Twitter, etc. scrappers, to gather the data and put them into csv extension file.
